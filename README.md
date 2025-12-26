@@ -29,7 +29,7 @@ This project serves as a **full-stack-ready frontend** that can be connected to 
 
 ## 📁 Project Features (Planned / Implemented)
 
-### Student Features
+### Student Features -
 
 - Register & login
 - Browse internships
@@ -117,11 +117,5 @@ Most projects **do not need to eject**.
 
 ---
 
-## 👨‍💻 Author
-
-**Sithil Semitha**  
-Aspiring Software Engineer | Full-Stack Developer
-
----
 
 ⭐ If you like this project, consider starring the repository!
