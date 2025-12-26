@@ -97,15 +97,7 @@ Most projects **do not need to eject**.
 
 ---
 
-## 📚 Learn More
 
-- Create React App Docs  
-  https://facebook.github.io/create-react-app/docs/getting-started
-
-- React Documentation  
-  https://reactjs.org/
-
----
 
 ## 🌱 Future Enhancements
 
