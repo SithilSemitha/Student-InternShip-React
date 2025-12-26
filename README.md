@@ -25,7 +25,7 @@ This project serves as a **full-stack-ready frontend** that can be connected to 
 - **API Integration:** REST APIs (planned / integrated)
 - **Authentication:** JWT / Session-based (backend-dependent)
 
----
+----------
 
 ## 📁 Project Features (Planned / Implemented)
 
